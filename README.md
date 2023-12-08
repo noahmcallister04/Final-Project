@@ -11,7 +11,7 @@ Before beginning make sure you have the latest version of Audacity available.
 
 ### Quick Jump
 1. [Device Setup](#device-setup)
-2. [Recording Audio]
+2. [Recording Audio](#recording-audio)
 3. [Exporting Audio]
 
 
