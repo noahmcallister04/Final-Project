@@ -11,9 +11,8 @@ Before beginning make sure you have the latest version of Audacity available.
 
 ### Quick Jump
 1. [Device Setup](#device-setup)
-2. [Useful Settings]
-3. [Recording Audio]
-4. [Exporting Audio]
+2. [Recording Audio]
+3. [Exporting Audio]
 
 
 ## Device Setup
@@ -26,6 +25,17 @@ Since I am using a Corsair Headset, I selected that device for both playback and
 
 Congratulations! You added your devices and now have audio. Your audacity should look like this when everything is working correctly when you record. (look below)
 ![Figure 3](https://github.com/noahmcallister04/Final-Project/assets/116388091/79fc75f4-eb0f-463f-bd91-2bb0f5714757)
+
+## Recording Audio
+
+Now that we added our devices, we want the best audio possible for our devices. To achieve this we will be changing the rate to 48000hz. 48000hz is the professional standard for audio and video.  
+
+1. Right-click on the empty space and add a Stereo Track
+  ![Figure 4](https://github.com/noahmcallister04/Final-Project/assets/116388091/ddd4e9d4-a7d8-4f33-a023-94a6a0994b71)
+2. Click the little dropdown arrow on the track ---->>>> Rate ---->>>> 48000hz
+  ![Figure 5](https://github.com/noahmcallister04/Final-Project/assets/116388091/32cab1c9-215e-4b87-9a10-ca542ed9d92a)
+
+
 
 
 
