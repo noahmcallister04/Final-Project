@@ -16,7 +16,7 @@ Before beginning make sure you have the latest version of Audacity available.
 4. [Exporting Audio]
 
 
-## Device Setup{#step1}
+## Device Setup {#step1}
 
 
 
