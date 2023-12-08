@@ -35,7 +35,8 @@ Now that we added our devices, we want the best audio possible for our devices. 
 2. Click the little dropdown arrow on the track ---->>>> Rate ---->>>> 48000hz
   ![Figure 5](https://github.com/noahmcallister04/Final-Project/assets/116388091/1644a56a-c260-44c3-b717-0ecdbdc67ee7)
 3. Record your audio using the red record button or by pressing the *R* key.
-4. Stop your audio using the stop button
+4. Stop your audio using the stop button   
+Congrats! You just made your first audio recording!
 
 
 
