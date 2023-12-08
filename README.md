@@ -12,7 +12,7 @@ Before beginning make sure you have the latest version of Audacity available.
 ### Quick Jump
 1. [Device Setup](#device-setup)
 2. [Recording Audio](#recording-audio)
-3. [Exporting Audio]
+3. [Exporting Audio](#exporting-audio)
 
 
 ## Device Setup
@@ -37,7 +37,20 @@ Now that we added our devices, we want the best audio possible for our devices. 
 3. Record your audio using the red record button or by pressing the *R* key.
 4. Stop your audio using the stop button   
 
-Congrats! You just made your first audio recording!
+Congratulations! You just made your first audio recording! Let's move on to actually saving that recording.
+
+## Exporting Audio
+
+Exporting audio is easy in Audacity. In the top left corner click *File* ---->>>> *Export Audio*.
+![Figure 6](https://github.com/noahmcallister04/Final-Project/assets/116388091/547ed86b-5231-4042-8c9f-398f7c583842)
+
+Next, name your file and make sure the sample rate is *48000hz* and *Stereo* is checked. There are many different formats to choose from but I would recommend WAV or MP3 for ease of use in other applications such as a video editor. Make sure you name the file and choose your desired place to save.
+
+![Figure 7](https://github.com/noahmcallister04/Final-Project/assets/116388091/f8f6f727-c3a5-4fb7-8a73-b24ac5518632)
+
+
+Congratulations! You just set up, recorded, and exported an audio file in Audacity! I hope this tutorial helped get your bearings on Audacity!
+
 
 
 
