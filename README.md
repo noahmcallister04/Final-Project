@@ -1,4 +1,4 @@
-# Audactiy Basics
+# Audacity Basics
 *Created by Noah McAllister*
 
 The purpose of this tutorial is to give a brief *startup* guide to setting up audacity and recording audio. The tutorial will cover setting up Recording and Playback Devices, Recording Audio, and Exporting audio files out of Audacity.
