@@ -19,6 +19,7 @@ Before beginning make sure you have the latest version of Audacity available.
 ![Figure 1](https://github.com/noahmcallister04/Final-Project/assets/116388091/f374aedd-33f5-4088-9d10-2489c8b785e3)
 Upon opening Audacity, navigate to the top bar and click *Audio Setup*. Shown in Figure 1.   
 Next, select the Playback device and the Recording device you wish to use.  
+*Playback device refers to the audio device that will be played back to you. Recording device refers to the device you use to record.*
 ![Figure 2](https://github.com/noahmcallister04/Final-Project/assets/116388091/c3540fdc-d03d-4176-90bc-042a6aef5c01)
 
 Since I am using a Corsair Headset, I selected that device for both playback and recording. If you are using an external microphone, select that device for a recording device and your headphones/speaker for playback.
@@ -44,12 +45,10 @@ Congratulations! You just made your first audio recording! Let's move on to actu
 Exporting audio is easy in Audacity. In the top left corner click *File* ---->>>> *Export Audio*.
 ![Figure 6](https://github.com/noahmcallister04/Final-Project/assets/116388091/547ed86b-5231-4042-8c9f-398f7c583842)
 
-Next, name your file and make sure the sample rate is *48000hz* and *Stereo* is checked. There are many different formats to choose from but I would recommend WAV or MP3 for ease of use in other applications such as a video editor. Make sure you name the file and choose your desired place to save.
+Next, make sure the sample rate is *48000hz* and *Stereo* is checked. There are many different formats to choose from but I would recommend WAV or MP3 for ease of use in other applications such as a video editor. Make sure you name the file and choose your desired place to save. Press *Export* and you're done!
 
 ![Figure 7](https://github.com/noahmcallister04/Final-Project/assets/116388091/f8f6f727-c3a5-4fb7-8a73-b24ac5518632)
 
-
-Congratulations! You just set up, recorded, and exported an audio file in Audacity! I hope this tutorial helped get your bearings on Audacity!
 
 
 
