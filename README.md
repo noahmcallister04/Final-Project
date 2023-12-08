@@ -5,13 +5,37 @@ The purpose of this tutorial is to give a brief *startup* guide to setting up au
 
 This tutorial is for anyone who needs to record audio but doesn't know where to start in the program. This tutorial is suitable for all age groups and should be easy to follow even if you aren't tech savvy!
 
+Before beginning make sure you have the latest version of Audacity available.  
+[Found Here](https://www.audacityteam.org/)
+
+
 ### Quick Jump
-1. Device Setup
-2. Useful Settings
-3. Recording Audio
-4. Exporting Audio
+1. [Device Setup](#step1)
+2. [Useful Settings]
+3. [Recording Audio]
+4. [Exporting Audio]
 
-Before beginning make sure you have the latest version of Audacity available. [Linked Here](https://www.audacityteam.org/)
 
-## Device Setup
+## Device Setup{#step1}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
