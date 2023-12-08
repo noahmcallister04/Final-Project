@@ -17,6 +17,7 @@ Before beginning make sure you have the latest version of Audacity available.
 
 
 ## Device Setup 
+![Figure 1](https://github.com/noahmcallister04/Final-Project/assets/116388091/f374aedd-33f5-4088-9d10-2489c8b785e3)
 
 
 
