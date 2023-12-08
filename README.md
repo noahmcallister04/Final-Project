@@ -24,7 +24,8 @@ Next, select the Playback device and the Recording device you wish to use.
 
 Since I am using a Corsair Headset, I selected that device for both playback and recording. If you are using an external microphone, select that device for a recording device and your headphones/speaker for playback.
 
-
+Congratulations! You added your devices and now have audio. Your audacity should look like this when everything is working correctly when you record. (look below)
+![Figure 3](https://github.com/noahmcallister04/Final-Project/assets/116388091/79fc75f4-eb0f-463f-bd91-2bb0f5714757)
 
 
 
