@@ -10,3 +10,8 @@ This tutorial is for anyone who needs to record audio but doesn't know where to 
 2. Useful Settings
 3. Recording Audio
 4. Exporting Audio
+
+Before beginning make sure you have the latest version of Audacity available. [Linked Here](https://www.audacityteam.org/)
+
+## Device Setup
+
