@@ -33,7 +33,7 @@ Now that we added our devices, we want the best audio possible for our devices. 
 1. Right-click on the empty space and add a Stereo Track
   ![Figure 4](https://github.com/noahmcallister04/Final-Project/assets/116388091/ddd4e9d4-a7d8-4f33-a023-94a6a0994b71)
 2. Click the little dropdown arrow on the track ---->>>> Rate ---->>>> 48000hz
-  ![Figure 5](https://github.com/noahmcallister04/Final-Project/assets/116388091/32cab1c9-215e-4b87-9a10-ca542ed9d92a)
+  ![Figure 5](https://github.com/noahmcallister04/Final-Project/assets/116388091/1644a56a-c260-44c3-b717-0ecdbdc67ee7)
 
 
 
