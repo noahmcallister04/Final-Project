@@ -18,7 +18,9 @@ Before beginning make sure you have the latest version of Audacity available.
 
 ## Device Setup 
 ![Figure 1](https://github.com/noahmcallister04/Final-Project/assets/116388091/f374aedd-33f5-4088-9d10-2489c8b785e3)
-
+Upon opening Audacity, navigate to the top bar and click *Audio Setup*. Shown in Figure 1.  
+Next, select the Playback device and the Recording device you wish to use.
+![Figure 2](https://github.com/noahmcallister04/Final-Project/assets/116388091/c3540fdc-d03d-4176-90bc-042a6aef5c01)
 
 
 
