@@ -1,7 +1,7 @@
 # Audactiy Basics
 *Created by Noah McAllister*
 
-The purpose of this tutorial is to give a brief *startup* guide to setting up audacity and recording audio. The tutorial will cover setting up Recording and Playback Devices, Useful settings, Recording Audio, and Exporting audio files out of Audacity.
+The purpose of this tutorial is to give a brief *startup* guide to setting up audacity and recording audio. The tutorial will cover setting up Recording and Playback Devices, Recording Audio, and Exporting audio files out of Audacity.
 
 This tutorial is for anyone who needs to record audio but doesn't know where to start in the program. This tutorial is suitable for all age groups and should be easy to follow even if you aren't tech savvy!
 
@@ -34,6 +34,8 @@ Now that we added our devices, we want the best audio possible for our devices. 
   ![Figure 4](https://github.com/noahmcallister04/Final-Project/assets/116388091/ddd4e9d4-a7d8-4f33-a023-94a6a0994b71)
 2. Click the little dropdown arrow on the track ---->>>> Rate ---->>>> 48000hz
   ![Figure 5](https://github.com/noahmcallister04/Final-Project/assets/116388091/1644a56a-c260-44c3-b717-0ecdbdc67ee7)
+3. Record your audio using the red record button or by pressing the *R* key.
+4. Stop your audio using the stop button
 
 
 
